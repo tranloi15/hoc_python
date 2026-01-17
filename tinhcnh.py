@@ -1,5 +1,6 @@
 print("xin chào ❤️")
 full_name=input("nhập họ tên của bạn: ")
 full_name=input("nhập họ tên của bạn: ")
+
 full_name=input("nhập họ tên của bạn: ")
 input(full_name)
